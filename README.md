@@ -10,7 +10,7 @@ One data set is humorous - describing a type of school as "party". Since I inclu
 
 Also, I question how useful is this data beyond interest/amusement? Most kids will go to local schools for affordability. How many have access to ivy league education? That would be important to include in the article.
 
-**The most valuable information from these data sets is *Degree*. That is what one can actually choose.** 
+**The most valuable information from these data sets is *Degree*. That is what one can actually choose, no matter region or school type.** This would be in my nutgraf.
 
 What would be further explored in my article -- beyond this data set -- is how region dependent are salaries? 
 
