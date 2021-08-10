@@ -14,12 +14,12 @@ The most useful analysis might be the result when considering **region residence
 
 **I believe that the most valuable information from these data sets is *Degree Type*. That is what one can category in these data sets that allows for most freedom of choice -- not region or school type, as those options involve means and privilege.** This would be in my nutgraf, but first I would have to investigate this -- such as look into statistics on how close to home college students tend to stay when they go for higher education. 
 
-##To begin: 
+## To begin: 
 
 I evaluated by *starting salary*, *mid career salary* and *percent increase at mid-career*. The question to answer is:
 
-###How much does one make at career start?
-###How much does it go up from there? 
+### How much does one make at career start?
+### How much does it go up from there? 
 
 To get a full picture, it is important to look at highest and lowest. As a reader, I would want to see this information.
 
