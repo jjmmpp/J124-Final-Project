@@ -8,18 +8,20 @@ I made some conclusions just looking at these data sets:
 
 This data set was problematic because some schools were listed twice, in two categories, such as *state* and *party*. For purposes of writing an article, I would contact whoever put the data together for further information on what makes a school a "party school." I would want to include discussion of it because its interesting, but not without clarification from source of data. Further, I suspect most students will go to local schools for reasons of affordability. How many even have access to ivy league education? These are other reasons I did not analyze this data set. 
 
-I found "Region" to be too limited in scope, without comparing it to the region one works in. I would want data on how region dependent are salaries before incorporating this data set. What is the result when considering region residence when working with degree type might be best to analzye. So I did not analyze this data set.
+I found "Region" to be too limited in scope, without comparing it to the region one works in. I would want data on how region dependent are salaries before incorporating this data set. So, I did not analyze this data set.
 
-**I believe that the most valuable information from these data sets is *Degree*. That is what one can category in these data sets that allows for most freedom of choice -- not region or school type.** This would be in my nutgraf, but first I would have to investigate this further -- such as look into statistics on how close to home college students tend to stay. 
+The most useful analysis might be the result when considering **region residence when working** with **degree type** might be best to analzye, but I do not have that information. That would provide knowledge to readers that they could actually use: *pick a good major, then the right region in which to find a job*. 
+
+**I believe that the most valuable information from these data sets is *Degree Type*. That is what one can category in these data sets that allows for most freedom of choice -- not region or school type, as those options involve means and privilege.** This would be in my nutgraf, but first I would have to investigate this -- such as look into statistics on how close to home college students tend to stay when they go for higher education. 
 
 ##To begin: 
 
 I evaluated by *starting salary*, *mid career salary* and *percent increase at mid-career*. The question to answer is:
 
-###How much do you make at career start?
-###How much does it go up from there. 
+###How much does one make at career start?
+###How much does it go up from there? 
 
-I thought that to get a full picture, it was important to look at highest and lowest. As a reader, I would want to see this information.
+To get a full picture, it is important to look at highest and lowest. As a reader, I would want to see this information.
 
 **Working in Excel**:
 * I duplicated each data set and renamed my file WKG before original name. In case I inadvertently changed the data, I would have the original downloads.
