@@ -8,9 +8,11 @@ I wanted to see if from this data it could be determined which education choices
 
 One data set is humorous - describing a type of school as "party". Since I included this data set, I thought my article pitch should be on the more levitous side.
 
-Also, I question how useful is this data? Most kids will go to local schools for affordability. And who has access to ivy league education? The most valuable information from these data sets is *Degree*. That is what one can actually choose. 
+Also, I question how useful is this data beyond interest/amusement? Most kids will go to local schools for affordability. How many have access to ivy league education? 
 
-What would be further explored in my article is 
+**The most valuable information from these data sets is *Degree*. That is what one can actually choose.** 
+
+What would be further explored in my article -- beyond this data set -- is how region dependent are salaries? 
 
 I evaluated by *starting salary* and *percent increase at mid-career*. 
 
