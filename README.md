@@ -35,13 +35,14 @@ Next, to make pivot tables easier to deal with
 ## Earnings by Majors
 
 ### Which majors have the highest starting salaries?
-*To solve, I made a pivot table of “Undergraduate Major” and “Starting Median Salary.” Then I sorted salary as descending.*
+*To solve, I made a pivot table of “Undergraduate Major” and “Starting Median Salary.” Then I sorted salary as descending to find top 5.*
 
 ![DegreeStartDesc](/Degree_Starting_Desc.jpg)
 
 ### Which majors have the lowest starting salaries?
-*To solve, I made a pivot table of “Undergraduate Major” and “Starting Median Salary.” Then I sorted salary as ascending.*
+*To solve, I made a pivot table of “Undergraduate Major” and “Starting Median Salary.” Then I sorted salary as ascending to find lowest 5.*
 
+![DegreeStartAsc](/Degree_Starting_Asc.jpg)
 
 To solve, I made a pivot table of “Undergraduate Major” and “Mid-Career Median Salary.” Then I sorted salary as descending
 
