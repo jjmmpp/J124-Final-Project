@@ -1,14 +1,10 @@
 # J124 Final Project - Salaries After Graduation
 ## Where does it pay off to focus your college efforts:
-### Major/Degree
-### School Type
-### Region
+### School Type or Region or Major/Degree? 
 
-I wanted to see if from this data it could be determined which education choices were the best and which were the worst for earning potential. 
+I made some conclusions just looking at these data sets:
 
-One data set is humorous - describing a type of school as *party*. Since I included this data set, I thought my article pitch should be on the more levitous side. This data set was also problematic because some schools had two categories, such as *state* and *party*. For purposes of writing an article, I would contact whoever put the data together for further information on what makes a school a "party school." 
-
-Also, I question how useful is this data beyond interest/amusement? Most will go to local schools for reasons of affordability. Further, how many even have access to ivy league education? That would be important to include in the article.
+"School Type" is somewhat humorous - describing a type of school as *party*. This data set was problematic because some schools were listed twice, in two categories, such as *state* and *party*. For purposes of writing an article, I would contact whoever put the data together for further information on what makes a school a "party school." I would want to include discussion of it because its interesting, but not without clarification from source of data. Further, most students will go to local schools for reasons of affordability. How many even have access to ivy league education? These are other reasons I did not analyze this data set. 
 
 **I believe that the most valuable information from these data sets is *Degree*. That is what one can category in these data sets that allows for most freedom of choice -- not region or school type.** This would be in my nutgraf. I would have to investigate this further -- such as look into statistics on how close to home college students tend to stay 
 
