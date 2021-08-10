@@ -12,7 +12,7 @@ Also, I question how useful is this data beyond interest/amusement? Most kids wi
 
 **The most valuable information from these data sets is *Degree*. That is what one can actually choose, no matter region or school type.** This would be in my nutgraf.
 
-What would be further explored in my article -- beyond this data set -- is how region dependent are salaries? 
+What would be further explored in my article -- beyond this data set -- is how region dependent are salaries? That may matter more than all the other choices regrading college in the data set.
 
 I evaluated by *starting salary* and *percent increase at mid-career*. 
 
