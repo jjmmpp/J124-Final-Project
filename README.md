@@ -32,3 +32,31 @@ Working in Excel:
 Next, to make pivot tables easier to deal with 
 * I did a copy and paste special as values onto that column to have the actual number in the cell instead of the formula. 
 
+## Earnings by Majors
+
+### Which majors have the highest starting salaries?
+*To solve, I made a pivot table of “Undergraduate Major” and “Starting Median Salary.” Then I sorted salary as descending.*
+
+![GitHub Logo](/images/logo.png)
+
+### Which majors have the lowest starting salaries?
+*To solve, I made a pivot table of “Undergraduate Major” and “Starting Median Salary.” Then I sorted salary as ascending.*
+
+
+To solve, I made a pivot table of “Undergraduate Major” and “Mid-Career Median Salary.” Then I sorted salary as descending
+
+3 - Which majors have the highest mid-career salaries? 
+
+To solve, I made a pivot table of “Undergraduate Major” and “Mid-Career Median Salary.” Then I sorted salary as ascending
+
+4 - Which majors have the lowest mid-career salaries?
+
+To solve, I made a pivot table of “Undergraduate Major” and “% change from Start to Mid.” Then I sorted salary as descending.
+
+5 - Which majors have the highest % change from starting to mid-career salaries?
+
+To solve, I made a pivot table of “Undergraduate Major” and “% change from Start to Mid.” Then I sorted salary as ascending.
+
+6 - Which majors have the lowest % change from starting to mid-career salaries?
+
+
