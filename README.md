@@ -4,7 +4,7 @@
 
 I made some conclusions just looking at these data sets:
 
-"School Type" is somewhat humorous, as a type of school as *party*. 
+"School Type" is somewhat humorous, as a type of school is *party*. 
 
 This data set was problematic because some schools were listed twice, in two categories, such as *state* and *party*. For purposes of writing an article, I would contact whoever put the data together for further information on what makes a school a "party school." I would want to include discussion of it because its interesting, but not without clarification from source of data. Further, I suspect most students will go to local schools for reasons of affordability. How many even have access to ivy league education? These are other reasons I did not analyze this data set. 
 
