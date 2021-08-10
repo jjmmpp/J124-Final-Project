@@ -53,11 +53,11 @@ I started here, assuming this would be the most useful data to consider.
 ### Which majors have the highest % change from starting to mid-career salaries? 
 *To solve, I made a pivot table of “Undergraduate Major” and “% change from Start to Mid.” Then I sorted salary as descending to find top 5.*
 
-![Degree%Desc](/Deg_%_Desc.jpg)
+![Degree%Desc](/DegPerDesc.jpg)
 
 ### Which majors have the lowest % change from starting to mid-career salaries?
 *To solve, I made a pivot table of “Undergraduate Major” and “% change from Start to Mid.” Then I sorted salary as ascending to find lowest 5.*
 
-![Degree%Asc](/Deg_%_Asc.jpg)
+![Degree%Asc](/DegPerAsc.jpg)
 
 
