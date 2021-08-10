@@ -25,7 +25,7 @@ To get a full picture, it is important to look at highest and lowest. As a reade
 
 **Working in Excel**:
 * I duplicated each data set and renamed my file WKG before original name. In case I inadvertently changed the data, I would have the original downloads.
-  * I save the original with ORG before name.  
+  * I saved the original with ORG before name.  
 * For each worksheet, to make sorting clearer, I deleted the top row. 
   * Then I froze the top and side panes.
   * I wrapped the text and expanded the row depth so I could read each column header easily.
