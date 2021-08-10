@@ -1,4 +1,4 @@
-# J124-Final-Project
+# J124 Final Project - Salaries After Graduation
 ## Where does it pay off to focus your college efforts:
 ### Major/Degree
 ### School Type
