@@ -71,4 +71,5 @@ I started here, assuming this would be the most useful data to consider.
 
 ![Degree%Asc](/DegPerAsc.jpg)
 
+Note: For my data visualization, I played with it in Google Sheets and uploaded the file here. Then I created a chart in XXXXX.
 
