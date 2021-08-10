@@ -50,6 +50,22 @@ I started here, assuming this would be the most useful data to consider.
 
 ![DegreeStartAsc](/Degree_Starting_Asc.jpg)
 
+### Which majors have the highest mid-career salaries? 
+*To solve, I made a pivot table of “Undergraduate Major” and “Mid-Career Median Salary.” Then I sorted salary as descending to find top 5.*
+
+
+
+*To solve, I made a pivot table of “Undergraduate Major” and “Mid-Career Median Salary.” Then I sorted salary as ascending to find lowest 5.*
+
+### Which majors have the lowest mid-career salaries?
+
+
+
+
+
+
+
+
 ### Which majors have the highest % change from starting to mid-career salaries? 
 *To solve, I made a pivot table of “Undergraduate Major” and “% change from Start to Mid.” Then I sorted salary as descending to find top 5.*
 
