@@ -10,9 +10,7 @@ This data set was problematic because some schools were listed twice, in two cat
 
 I found "Region" to be too limited in scope, without comparing it to the region one works in. I would want data on how region dependent are salaries before incorporating this data set. So, I did not analyze this data set.
 
-The most useful analysis might be the result when considering **region residence when working** with **degree type**. That would provide knowledge to readers that they could actually use: *pick a good major, then the right region in which to find a job*. 
-
-I believe that the most valuable information from these data sets is *Degree Type. That is **the** category in these data sets that allows for most freedom of choice -- not region or school type, as those options involve means and privilege.** This would be in my nutgraf, but first I would have to investigate this -- such as look into statistics on how close to home college students tend to stay when they go for higher education. 
+The most useful analysis might be the result when considering **region residence when working** with **degree type**. That would provide knowledge to readers that they could actually use: *pick a good major, then the right region in which to find a job*. I believe that the most valuable information from these data sets is *Degree Type*. That is **the** category in these data sets that allows for most freedom of choice -- not region or school type, as those options involve means and privilege. 
 
 ## To begin: 
 
