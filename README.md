@@ -23,7 +23,7 @@ To get a full picture, it is important to look at highest and lowest. As a reade
   * I formatted the column to show numbers as percentages.
 
 * Next, to make pivot tables easier to deal with 
-  * I did a copy and paste special as values onto the “Percent change from Starting to Mid-Career Salary”  column to have the actual number in the cell instead of the formula. 
+  * I did a *copy* and *paste special as values* onto the “Percent change from Starting to Mid-Career Salary”  column to have the actual number in the cell instead of the formula. 
 
 ## Earnings by Majors
 I started here, assuming this would be the most useful data to consider. 
