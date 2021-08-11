@@ -66,7 +66,9 @@ The "Region" set is too limited in scope, without comparing it to the region one
 
 # Data Visualization 
 
-Note: For my data visualization, I used Google Sheets :sweat_smile: and uploaded the file here. Then I created a chart in XXXXX.
+Note: For my data visualization, I used Google Sheets :sweat_smile: and uploaded the file here. Then I created a chart in Datawrapper. https://datawrapper.dwcdn.net/hyMhf/1/
+
+![DataViz](/Datawrapper-salaries-by-college-degree.jpg)
 
 # Article Pitch
 
