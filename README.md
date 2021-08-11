@@ -18,7 +18,7 @@ To get a full picture, it is important to look at highest and lowest. As a reade
   * Then I froze the top and side panes.
   * I wrapped the text and expanded the row depth so I could read each column header easily.
 * I added a “Percent change from Starting to Mid-Career Salary” column and calculation to the School Type and Region sheets, which did not have that already.
-  * I put in the formula: New number – original number/original number* or *=(D2-C2)/C2* for the first line.
+  * I put in the formula: *New number – original number/original number* or *=(D2-C2)/C2* for the first line.
   * Then double-clicked left corner to autofill to bottom.
   * I formatted the column to show numbers as percentages.
 
