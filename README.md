@@ -60,7 +60,7 @@ I started here, assuming this would be the most useful data to consider.
 
 I made some conclusions from playing around with the other data sets: 
 
-"School Type" is somewhat humorous, as a type of school is *party*. This data set was problematic because some schools were listed twice, in two categories, such as *state* and *party*. I would need clarificaton from the souce about what makes a school a "party school" before using it. 
+"School Type" is somewhat humorous, as a type of school is *party*. This data set was problematic because some schools were listed twice, in two categories, such as *state* and *party*. I would need clarification from the source about what makes a school a "party school" before using it. 
 
 The "Region" set is too limited in scope, without comparing it to the region one works in. So, I did not analyze this data set.
 
@@ -74,7 +74,7 @@ Note: For my data visualization, I used Google Sheets :sweat_smile: and uploaded
 
 ## How to turn college into financial success? Pick the right major and move to the right region.
 
-### The biggest determinates in financial success after college may be major and region you go to work in after graduation. Most prospective students cannot get into let alone pay for an ivy league school, or even afford to go far from home. But anyone can pick a useful major and find a hot job market after graduation. (Note: I would need to do data analysis on salaries by region and college degrees.) 
+### The biggest factors in financial success after college may be major and region you go to work in after graduation. Most prospective students cannot get into let alone pay for an ivy league school, or even afford to go far from home. But anyone can pick a useful major and find a hot job market after graduation. (Note: I would need to do data analysis on salaries by region and college degrees.) 
 
 # Sources and Reports
 ### Have studied this area extensively and produced a report for the Hamilton Project. (PDF attached)
@@ -86,7 +86,7 @@ Note: For my data visualization, I used Google Sheets :sweat_smile: and uploaded
  * Paul Harrington  (215) 571-3874 clmp@drexel.edu 
  * Ishwar Khatiwada ishwar.khatiwada@drexel.edu
 
-### Did an extensive analsys for the College Board, called Education Pays 2019 – The Benefits of Higher Education for Individuals and Society. (PDF attached)
+### Did an extensive analysis for the College Board, called Education Pays 2019 – The Benefits of Higher Education for Individuals and Society. (PDF attached)
  * Jennifer Ma jma@collegeboard.org
  * Matea Pender (202) 797-6197 
  * Meredith Welch (202) 293-1217, x. 344
