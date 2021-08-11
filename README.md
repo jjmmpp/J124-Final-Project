@@ -77,20 +77,21 @@ Note: For my data visualization, I used Google Sheets :sweat_smile: and uploaded
 ### The biggest determinates in financial success after college may be major and region you go to work in after graduation. Most prospective students cannot get into let alone pay for an ivy league school, or even afford to go far from home. But anyone can pick a useful major and find a hot job market after graduation. (Note: I would need to do data analysis on salaries by region and college degrees.) 
 
 # Sources and Reports
-* Brad Hershbein  (269) 343-5541 hershbein@upjohn.org
-* Melissa Keanery (301) 405-6202 kearney@umd.edu
-  * have studied this area extensively and produced a report for the Hamilton Project. (PDF attached)
+* Have studied this area extensively and produced a report for the Hamilton Project. (PDF attached)
+ * Brad Hershbein  (269) 343-5541 hershbein@upjohn.org
+ * Melissa Keanery (301) 405-6202 kearney@umd.edu
+ 
   
+* Wrote a report for The ETS Center for Research on Human Capital and Education. (PDF attached)
+ * Neeta Fogg (215) 300-8879 neeta.p.fogg@drexel.edu
+ * Paul Harrington  (215) 571-3874 clmp@drexel.edu 
+ * Ishwar Khatiwada ishwar.khatiwada@drexel.edu
   
-* Neeta Fogg (215) 300-8879 neeta.p.fogg@drexel.edu
-* Paul Harrington  (215) 571-3874 clmp@drexel.edu 
-* Ishwar Khatiwada ishwar.khatiwada@drexel.edu
-  * wrote a report for The ETS Center for Research on Human Capital and Education. (PDF attached)
 
-
-* Jennifer Ma jma@collegeboard.org
-* Matea Pender (202) 797-6197 
-* Meredith Welch (202) 293-1217, x. 344
-  * did an extensive analsys for the College Board, called Education Pays 2019 – The Benefits of Higher Education for Individuals and Society. (PDF attached)
+* Did an extensive analsys for the College Board, called Education Pays 2019 – The Benefits of Higher Education for Individuals and Society. (PDF attached)
+ * Jennifer Ma jma@collegeboard.org
+ * Matea Pender (202) 797-6197 
+ * Meredith Welch (202) 293-1217, x. 344
+ 
 
 
