@@ -72,7 +72,7 @@ Note: For my data visualization, I played with it in Google Sheets and uploaded 
 
 ## How to turn college into financial success? Pick the right major and move to the right region.
 
-### The biggest determinates in financial success after college may be major and region you go to work in after graduation. Most prospective students cannot get into let alone pay for an ivy league school, or even afford to go far from home. But anyone can pick a useful major and find a hot job market after graduation. (Note: I would need to do further analysis on salaries by region to align with major.) 
+### The biggest determinates in financial success after college may be major and region you go to work in after graduation. Most prospective students cannot get into let alone pay for an ivy league school, or even afford to go far from home. But anyone can pick a useful major and find a hot job market after graduation. (Note: I would need to do further analysis on salaries by region.) 
 
 # Sources and Reports
 * Brad Hershbein and Melissa Keanery have studied this area extensively and produced a report for the Hamilton Project. (PDF attached)
