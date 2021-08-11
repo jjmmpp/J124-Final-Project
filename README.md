@@ -64,8 +64,19 @@ I made some conclusions from playing around with the other data sets:
 
 The "Region" set is too limited in scope, without comparing it to the region one works in. So, I did not analyze this data set.
 
-The most useful analysis might be the result when considering **region residence when working** with **degree type**. That would provide knowledge to readers that they could actually use: *pick a good major, then the right region in which to find a job*. I believe that the most valuable information from these data sets is *Degree Type*. That is **the** category in these data sets that allows for most freedom of choice -- not region or school type, as those options involve means and privilege.
+# Data Visualization 
+
 Note: For my data visualization, I played with it in Google Sheets and uploaded the file here. Then I created a chart in XXXXX.
 
 # Article Pitch
+
+## How to turn college into financial success? Pick the right major and move to the right region.
+
+### The biggest determinates in financial success after college may be major and region you go to work in after graduation. Most prospective students cannot get into let alone pay for an ivy league school, or even afford to go far from home. But anyone can pick a useful major and find a hot job market after graduation. (Note: I would need to do further analysis on salaries by region to align with major.) 
+
+# Sources and Reports
+* Brad Hershbein and Melissa Keanery have studied this area extensively and produced a report for the Hamilton Project. (PDF attached)
+* Neeta Fogg, Paul Harrington, and Ishwar Khatiwada wrote a report for The ETS Center for Research on Human Capital and Education. (PDF attached)
+* Jennifer Ma, Matea Pender, and Meredith Welch did an extensive analsys for the College Board, called Education Pays 2019 – The Benefits of Higher Education for Individuals and Society. (PDF attached)
+
 
