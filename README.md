@@ -66,13 +66,13 @@ The "Region" set is too limited in scope, without comparing it to the region one
 
 # Data Visualization 
 
-Note: For my data visualization, I played with it in Google Sheets and uploaded the file here. Then I created a chart in XXXXX.
+Note: For my data visualization, I used Google Sheets :sweat_smile: and uploaded the file here. Then I created a chart in XXXXX.
 
 # Article Pitch
 
 ## How to turn college into financial success? Pick the right major and move to the right region.
 
-### The biggest determinates in financial success after college may be major and region you go to work in after graduation. Most prospective students cannot get into let alone pay for an ivy league school, or even afford to go far from home. But anyone can pick a useful major and find a hot job market after graduation. (Note: I would need to do further analysis on salaries by region.) 
+### The biggest determinates in financial success after college may be major and region you go to work in after graduation. Most prospective students cannot get into let alone pay for an ivy league school, or even afford to go far from home. But anyone can pick a useful major and find a hot job market after graduation. (Note: I would need to do data analysis on salaries by region and college degrees.) 
 
 # Sources and Reports
 * Brad Hershbein and Melissa Keanery have studied this area extensively and produced a report for the Hamilton Project. (PDF attached)
