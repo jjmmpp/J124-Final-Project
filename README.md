@@ -81,14 +81,16 @@ Note: For my data visualization, I used Google Sheets :sweat_smile: and uploaded
 * Melissa Keanery (301) 405-6202 kearney@umd.edu
   * have studied this area extensively and produced a report for the Hamilton Project. (PDF attached)
   
+  
 * Neeta Fogg (215) 300-8879 neeta.p.fogg@drexel.edu
 * Paul Harrington  (215) 571-3874 clmp@drexel.edu 
 * Ishwar Khatiwada ishwar.khatiwada@drexel.edu
   * wrote a report for The ETS Center for Research on Human Capital and Education. (PDF attached)
 
-* Jennifer Ma
-* Matea Pender
-* Meredith Welch 
+
+* Jennifer Ma jma@collegeboard.org
+* Matea Pender (202) 797-6197 
+* Meredith Welch (202) 293-1217, x. 344
   * did an extensive analsys for the College Board, called Education Pays 2019 – The Benefits of Higher Education for Individuals and Society. (PDF attached)
 
 
